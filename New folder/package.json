@@ -1,0 +1,16 @@
+{
+  "name": "marveldigest",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "@sendgrid/client": "^7.9.0",
+    "@sendgrid/mail": "^7.9.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@netlify/plugin-minify-html": "^4.0.0",
+    "netlify-cli": "^6.0.0"
+  }
+}
